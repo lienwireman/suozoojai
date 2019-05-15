@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chonepaici.rrzceramics.com/sitemap.xml
